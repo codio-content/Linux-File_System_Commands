@@ -9,8 +9,4 @@ By the end of this unit you will learn:
 - How to create multiple files in a single line
 - How to create files in nested directories
 - How to list directory content from parent directories
-- How to remove, move, rename and copy files and directories
-- Move around the file system several directories at once
-- Explore file content using the CLI
-- Clear your terminal window
-
+- How to remove files and directories
