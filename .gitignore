@@ -1,2 +1,7 @@
 # Settings file
 .settings
+
+# Project directories that are created throughout the course
+assets
+css
+js

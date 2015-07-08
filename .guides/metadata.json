@@ -66,11 +66,19 @@
   },
   {
    "id": "e6342c22-81f1-c7b2-9e3b-564a7b54dd5",
-   "title": "Removing directories",
+   "title": "Removing empty directories",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Removing-directories-e634.md"
+   "content-file": ".guides/content/Removing-empty-directories-e634.md"
+  },
+  {
+   "id": "97fad5a5-14b5-9e8d-b448-528e7e9d6c2c",
+   "title": "Removing files and directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Removing-files-and-directories-97fa.md"
   },
   {
    "id": "cacbe379-bc8-fe85-be63-268fdfd3e945",
