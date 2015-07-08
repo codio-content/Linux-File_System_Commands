@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "id": "e64b9824-76d3-ea85-43d6-ea79e8a7e243",
+   "title": "Recap",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-e64b.md"
+  },
+  {
+   "id": "132985e1-11f3-4d3f-7002-c21c2ed86637",
+   "title": "What we'll learn",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-1329.md"
+  },
+  {
+   "id": "8c82b27-9b6a-c69d-7037-7846f0f31b80",
+   "title": "Making multiple directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Making-multiple-directories-8c82.md"
+  },
+  {
+   "id": "37dda718-6bae-6bc-6a68-2a8a2092f670",
+   "title": "Creating nested directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-nested-directories-37dd.md"
+  },
+  {
+   "id": "3f12263c-e722-a720-cf56-c8eea34eb6cb",
+   "title": "Creating multiple files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-multiple-files-3f12.md"
+  },
+  {
+   "id": "9ac16d40-9c13-6038-d300-c478759c6715",
+   "title": "Creating files in children directories ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-7-9ac1.md"
+  },
+  {
+   "id": "cacbe379-bc8-fe85-be63-268fdfd3e945",
+   "title": "More effective FS navigation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/More-effective-FS-navigation-cacb.md"
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": []
+}
