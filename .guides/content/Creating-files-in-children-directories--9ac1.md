@@ -2,7 +2,7 @@
 
 The same way as the `mkdir assets/ ...` command created the _assets_ directory with the children directories inside it: _icons, img and webfonts_ respectively, the `touch` command can perform something similar. 
 
-Our web project is not complete yet, we need a stylesheet file, a JavaScript file and a dummy PNG icon file.
+Our web project is not complete yet, we need a stylesheet file, a JavaScript file and a dummy PNG files.
 
 Click on the terminal, make sure you are on the `~/workspace` directory and execute:
 

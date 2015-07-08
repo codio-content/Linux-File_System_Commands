@@ -73,12 +73,36 @@
    "content-file": ".guides/content/Removing-empty-directories-e634.md"
   },
   {
-   "id": "97fad5a5-14b5-9e8d-b448-528e7e9d6c2c",
-   "title": "Removing files and directories",
+   "id": "d7894cf7-d76e-ba70-f764-d8423c6b7379",
+   "title": "Removing files",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Removing-files-and-directories-97fa.md"
+   "content-file": ".guides/content/Removing-files-d789.md"
+  },
+  {
+   "id": "e6c0b3f8-640b-303d-83bc-100d97d43982",
+   "title": "Removing multiple files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Removing-multiple-files-e6c0.md"
+  },
+  {
+   "id": "97fad5a5-14b5-9e8d-b448-528e7e9d6c2c",
+   "title": "Removing non-empty directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Removing-non-empty-directories-97fa.md"
+  },
+  {
+   "id": "2b5a3efc-435-5e1a-8c54-5dfb2a755621",
+   "title": "Requesting removal confirmation",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Asking-for-removal-confirmation-2b5a.md"
   },
   {
    "id": "cacbe379-bc8-fe85-be63-268fdfd3e945",
