@@ -111,30 +111,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Second-challenge-5dc0.md"
-  },
-  {
-   "id": "84b86b30-5323-6887-eae1-8f6f3c50f1d6",
-   "title": "Moving files",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Moving-files-84b8.md"
-  },
-  {
-   "id": "1e00423-614b-515d-7eba-664e6c6133d3",
-   "title": "Moving directories",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Moving-directories-1e00.md"
-  },
-  {
-   "id": "cacbe379-bc8-fe85-be63-268fdfd3e945",
-   "title": "More effective FS navigation",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/More-effective-FS-navigation-cacb.md"
   }
  ],
  "theme": "charcoal",
