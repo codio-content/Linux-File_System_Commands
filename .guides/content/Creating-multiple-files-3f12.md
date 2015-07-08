@@ -20,3 +20,13 @@ drwxrwxr-x 2 codio codio  6 Jul  8 00:36 css
 drwxrwxr-x 2 codio codio  6 Jul  8 00:36 js
 -rw-rw-r-- 1 codio codio  0 Jul  8 01:26 README.md
 ```
+
+|||definition
+### Create multiple files
+__Usage:__
+```
+touch <argument> <argument>
+```
+__Definition:__
+The `touch` command accepts any number of arguments referring to the file names to be created.
+|||

@@ -25,9 +25,16 @@ The new structure should be looking like this:
 --- style.css
 -- js/
 --- scripts.js
+- index.html
+- README.md
 ```
 
-|||challenge
-### Test your new multiple files and directories creation skills
-Click on the terminal window and execute the `bashtest-2` command.
+|||warning
+### Create the empty parent directory first
+Similar to the `mkdir` error we get when parent directories are not yet created, the `touch` command outputs a similar error when the parent directory of a new children file is non-existent:
+
+```
+touch: cannot touch `directory/file.txt': No such file or directory
+```
+
 |||

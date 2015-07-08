@@ -46,7 +46,31 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-7-9ac1.md"
+   "content-file": ".guides/content/Creating-files-in-children-directories--9ac1.md"
+  },
+  {
+   "id": "29d99219-a841-3a1f-a19c-29052a9c251",
+   "title": "First challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/First-challenge-29d9.md"
+  },
+  {
+   "id": "a6f6343-e6b9-ba63-6803-b69134eb3134",
+   "title": "Listing from parent directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Listing-from-parent-directories-a6f6.md"
+  },
+  {
+   "id": "e6342c22-81f1-c7b2-9e3b-564a7b54dd5",
+   "title": "Removing directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Removing-directories-e634.md"
   },
   {
    "id": "cacbe379-bc8-fe85-be63-268fdfd3e945",
