@@ -1,11 +1,14 @@
 ## We can make several directories, simultaneously
 
-Remember the `mkdir` command? Well, it accepts any number of arguments, in this case, the arguments are directory names. 
+Remember the `mkdir` command? Well, it accepts any number of arguments, in this case, the arguments are directory names.
 
-Lets create a basic web development directory structure, for this we need 2 main directories:
+We need 2 main directories for our basic web-project structure.
 
-1. Verify you are on the workspace directory with the `pwd` command
-2. `mkdir css js`
+Verify you are currently on the workspace directory with the `pwd` command and execute:
+
+```
+mkdir css js
+```
 
 Confirm the existance of the 2 directories by comparing the `ls` output with the file tree:
 

@@ -17,6 +17,14 @@
    "content-file": ".guides/content/What-we-ll-learn-1329.md"
   },
   {
+   "id": "1600b06f-2fbf-ee9c-3c2a-97b1a49b4655",
+   "title": "Project approach",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-14-1600.md"
+  },
+  {
    "id": "8c82b27-9b6a-c69d-7037-7846f0f31b80",
    "title": "Making multiple directories",
    "files": [],
@@ -33,6 +41,14 @@
    "content-file": ".guides/content/Creating-nested-directories-37dd.md"
   },
   {
+   "id": "541c115a-27d0-26-7f48-60fa2a70f6ce",
+   "title": "Challenge: Make directories",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Make-directories-541c.md"
+  },
+  {
    "id": "3f12263c-e722-a720-cf56-c8eea34eb6cb",
    "title": "Creating multiple files",
    "files": [],
@@ -47,14 +63,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Creating-files-in-children-directories--9ac1.md"
-  },
-  {
-   "id": "29d99219-a841-3a1f-a19c-29052a9c251",
-   "title": "First challenge",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/First-challenge-29d9.md"
   },
   {
    "id": "a6f6343-e6b9-ba63-6803-b69134eb3134",
@@ -103,14 +111,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Requesting-removal-confirmation-2b5a.md"
-  },
-  {
-   "id": "5dc0f41c-a5d2-ef64-6296-a250b97f9b39",
-   "title": "Second challenge",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Second-challenge-5dc0.md"
   }
  ],
  "theme": "charcoal",

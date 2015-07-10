@@ -2,7 +2,7 @@
 
 Where are the images, webfonts and icons of our basic web project intended to be stored? 
 
-We need a 3rd directory in our workspace folder, this time it needs to contain 3 more directories inside it: 
+We need a third directory in our workspace folder, this time it needs to contain 3 more directories inside it:
 
 ```
 ~/workspace/
@@ -19,7 +19,7 @@ Ready! Set! Go!
 Click on your terminal window and inside the _workspace_ directory,  execute:
 
 ```
-mkdir assets/ assets/icons assets/img assets/webfonts
+mkdir assets assets/icons assets/img assets/webfonts
 ```
 
 |||warning
