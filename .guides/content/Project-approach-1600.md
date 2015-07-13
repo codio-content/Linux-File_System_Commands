@@ -2,7 +2,7 @@
 
 |||info
 ### A basic web development directory structure?
-In order to provide you a more real approach of the use of the CLI we will create a web project file structure, in other words: _files that can be read by a web browser_.
+In order to provide you a more real approach of the use of the CLI, we will create a web project file structure, in other words: _files that can be read by a web browser_.
 
 __We are not going to dive into the theory of web-development__ as it is out of the course scope.
 |||
@@ -11,4 +11,4 @@ In its purest form, a web-development project can consist of a single `index.htm
 
 ### Is this the most common approach that web-developers take?
 
-Indeed, in fact, a vast majority of web-developers use the tools that you are about to learn for _kickstarting_ their web-projects' file and directory structure.
+Indeed, in fact, a vast majority of web-developers use the tools that you are about to learn for _kickstarting_ their web-projects' and web-apps' file and directory structure.

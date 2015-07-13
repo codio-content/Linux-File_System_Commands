@@ -3,7 +3,18 @@
   {
    "id": "e64b9824-76d3-ea85-43d6-ea79e8a7e243",
    "title": "Recap",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap-e64b.md"
@@ -12,6 +23,7 @@
    "id": "132985e1-11f3-4d3f-7002-c21c2ed86637",
    "title": "What we'll learn",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-we-ll-learn-1329.md"
@@ -22,7 +34,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-14-1600.md"
+   "content-file": ".guides/content/Project-approach-1600.md"
   },
   {
    "id": "8c82b27-9b6a-c69d-7037-7846f0f31b80",
@@ -73,6 +85,14 @@
    "content-file": ".guides/content/Listing-from-parent-directories-a6f6.md"
   },
   {
+   "id": "36958af-f622-2701-4c25-e0a1a020cb8c",
+   "title": "Challenge: Children files ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--Children-files--3695.md"
+  },
+  {
    "id": "e6342c22-81f1-c7b2-9e3b-564a7b54dd5",
    "title": "Removing empty directories",
    "files": [],
@@ -111,6 +131,14 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Requesting-removal-confirmation-2b5a.md"
+  },
+  {
+   "id": "816d96aa-5ca7-a335-b843-abb01851c80a",
+   "title": "Challenge: Children files ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-16-816d.md"
   }
  ],
  "theme": "charcoal",

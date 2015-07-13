@@ -2,7 +2,7 @@
 
 The same way as the `mkdir assets/ ...` command created the _assets_ directory with the children directories inside it: _icons, img and webfonts_ respectively, the `touch` command can perform something similar. 
 
-Our web project is not complete yet, we need a stylesheet file, a JavaScript file and a dummy PNG files.
+Our web project is not complete yet, we need a stylesheet file, a JavaScript file and a dummy PNG file.
 
 Click on the terminal, make sure you are on the `~/workspace` directory and execute:
 
@@ -31,7 +31,7 @@ The new structure should be looking like this:
 
 |||warning
 ### Create the empty parent directory first
-Similar to the `mkdir` error we get when parent directories are not yet created, the `touch` command outputs a similar error when the parent directory of a new children file is non-existent:
+Similar to the `mkdir` error we get when parent directories are not yet created, the `touch` command outputs an error when the parent directory of a new children file is non-existent:
 
 ```
 touch: cannot touch `directory/file.txt': No such file or directory
