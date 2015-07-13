@@ -85,6 +85,14 @@
    "content-file": ".guides/content/Listing-from-parent-directories-a6f6.md"
   },
   {
+   "id": "3cb752e2-79d0-4e2d-6d9-5cc05c6297a0",
+   "title": "Clearing the terminal screen",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Clearing-the-terminal-3cb7.md"
+  },
+  {
    "id": "36958af-f622-2701-4c25-e0a1a020cb8c",
    "title": "Challenge: Children files ",
    "files": [],
@@ -138,7 +146,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Children-files--816d.md"
+   "content-file": ".guides/content/Challenge--Removing-files-816d.md"
   }
  ],
  "theme": "charcoal",
