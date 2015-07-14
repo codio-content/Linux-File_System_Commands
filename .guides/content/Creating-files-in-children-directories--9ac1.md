@@ -7,7 +7,7 @@ Our web project is not complete yet, we need a stylesheet file, a JavaScript fil
 Click on the terminal, make sure you are on the `~/workspace` directory and execute:
 
 ```
-touch css/styles.css js/scripts.js assets/icons/icon.png assets/img/image.png
+touch css/styles.css js/scripts.js assets/icons/icon.png assets/img/logo.png
 ```
 
 Boom! Inspect the correspondent file tree directories to verify the existance of your new empty files.
@@ -20,7 +20,7 @@ The new structure should be looking like this:
 --- icons/
 ---- icon.png
 --- img/
----- image.png
+---- logo.png
 --- webfonts/
 -- css/
 --- style.css

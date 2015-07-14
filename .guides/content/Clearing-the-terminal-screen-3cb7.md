@@ -2,13 +2,9 @@
 
 As more commands are input into the prompt, the available space between the bottom of the terminal and the prompt becomes narrower.
 
-### Show me some clearing techniques
+### Show me some terminal screen clearing techniques:
 
-Click on your terminal window and execute: 
-
-```
-clear
-```
+![clear-cmd](.guides/img/clear-cmd.gif)
 
 |||definition
 ### Command: `clear`
