@@ -69,6 +69,14 @@
    "content-file": ".guides/content/Creating-multiple-files-3f12.md"
   },
   {
+   "id": "ecdfc47f-69bc-cd7-6b79-47867d25f793",
+   "title": "Shortcut: Clearing single line inputs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shortcut--Clearing-text-inputs-ecdf.md"
+  },
+  {
    "id": "9ac16d40-9c13-6038-d300-c478759c6715",
    "title": "Creating files in children directories ",
    "files": [],
@@ -86,11 +94,11 @@
   },
   {
    "id": "3cb752e2-79d0-4e2d-6d9-5cc05c6297a0",
-   "title": "Clearing the terminal screen",
+   "title": "Shortcut: Clearing the terminal screen",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Clearing-the-terminal-screen-3cb7.md"
+   "content-file": ".guides/content/Shortcut--Clearing-the-terminal-screen-3cb7.md"
   },
   {
    "id": "36958af-f622-2701-4c25-e0a1a020cb8c",

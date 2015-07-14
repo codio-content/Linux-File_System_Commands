@@ -8,6 +8,8 @@ Make sure you are on the `~/workspace` directory and execute:
 ```
 bashtest touch-test
 ```
+
+__NOTE:__ Some keyboard shortcuts may not work during the CLI challenges as they run in an interactive screen.
 |||
 
 |||info

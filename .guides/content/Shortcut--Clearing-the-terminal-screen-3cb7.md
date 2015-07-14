@@ -10,7 +10,7 @@ As more commands are input into the prompt, the available space between the bott
 ### Command: `clear`
 __Definition:__ The `clear` command enables more empty space in the terminal window by taking the visible content to the top. 
 
-__The `clear` command d not erase content__
+__The `clear` command does not erase content__
 |||
 
 ### Any other option for clearing my command line?
