@@ -17,6 +17,9 @@ function runtestfile {
     touch-test ) chmod +x "${BASHDIR}/bashtests/${arg}"
 		$arg
 	  ;;
+    remove-test ) chmod +x "${BASHDIR}/bashtests/${arg}"
+		$arg
+	  ;;
 	*) echo "The $arg argument can't be recognized. Try again."
 	   ;;
 	esac
