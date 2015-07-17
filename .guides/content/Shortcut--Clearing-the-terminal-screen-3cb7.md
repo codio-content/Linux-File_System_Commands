@@ -4,8 +4,6 @@ As more commands are input into the prompt, the available space between the bott
 
 ### Show me some terminal screen clearing techniques:
 
-![clear-cmd](.guides/img/clear-cmd.gif)
-
 |||definition
 ### Command: `clear`
 __Definition:__ The `clear` command enables more empty space in the terminal window by taking the visible content to the top. 
@@ -19,8 +17,8 @@ In fact, there is a more practical alternative.
 
 On your keyboard, type the following keys combination:
 
-```
-ctrl + l
-```
+![shortcut-ctl-l](.guides/img/shortcut-ctrl-l.png)
+
+![shortcut-ctl-l](.guides/img/shortcut-ctrl-l.gif)
 
 This keyboard shortcut also clears your terminal window but no prompt input is needed. How cool is that? 
