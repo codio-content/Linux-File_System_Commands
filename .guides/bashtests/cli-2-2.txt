@@ -1,0 +1,35 @@
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+bashtest cli-2-2
+bashtest cli-2-2
+bashtest cli-2-2
+bashtest cli-2-2
+touch test-website/index.html
+bashtest cli-2-2
+bashtest cli-2-2
+mkdir test-website/css
+touch test-website/css/styles.css
+bashtest cli-2-2
+ls test-website/css/
+bashtest cli-2-2
+clear
+bashtest cli-2-2
+ls test-website/css
+bashtest cli-2-2
+ls test-website/css/
+bashtest cli-2-2
+clear
+cat ~/.bash_history 
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2
+cli-2-2

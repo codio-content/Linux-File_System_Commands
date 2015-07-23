@@ -1,0 +1,37 @@
+cli-2-3
+cli-2-3
+cli-2-3
+cli-2-3
+cli-2-3
+cli-2-3
+clear
+cat ~/.bash_history 
+clear
+bashtest cli-2-2
+mkdir test-website/js
+touch test-website/js/scripts.js
+bashtest cli-2-2
+bashtest cli-2-2
+rm test-website/index.html 
+bashtest cli-2-2
+bashtest cli-2-2
+clear
+bashtest cli-2-1
+bashtest cli-2-1
+rm -r test-website/css/
+bashtest cli-2-1
+clear
+bashtest cli-2-3
+bashtest cli-2-3
+rm test-website/js/scripts.js 
+bashtest cli-2-3
+rmdir test-website/js/
+bashtest cli-2-3
+rm -r test-website/css
+bashtest cli-2-3
+rm -r test-website/css/
+bashtest cli-2-3
+rm -r test-website/css/
+cat ~/.bash_history 
+clear
+cli-2-3

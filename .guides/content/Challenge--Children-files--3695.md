@@ -5,23 +5,17 @@ Lets test your file creation skills.
 
 Make sure you are on the `~/workspace` directory and execute: 
 
-```
-bashtest touch-test
-```
+1. Create the following files. Try creating them directly from the `~/workspace` directory, all at once:
 
-__NOTE:__ Some keyboard shortcuts may not work during the CLI challenges as they run in an interactive screen.
-|||
+    ```
+    test-website/index.html 
+    test-website/.website-config
+    test-website/css/styles.css
+    test-website/img/logo.png
+    test-website/js/scripts.js
+    ```
 
-|||info
-### Some files are not being displayed on the file tree after the challenge was passed
-
-Don't worry. If this happens: 
-
-1. Make sure that the `ls` command actually lists the files and directories inside your _test-website/_ directory
-2. If the files exist, go to Codio's top bar and do: 
-
-__*Project > Resync File Tree*__
-
-You should be seeing the files on the file tree now.
+2. From your `~/workspace` directory, list the `test-website/css` directory content including hidden files
+3. Clear the terminal screen
 
 |||

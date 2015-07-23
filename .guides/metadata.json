@@ -55,7 +55,18 @@
   {
    "id": "541c115a-27d0-26-7f48-60fa2a70f6ce",
    "title": "Challenge: Make directories",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: echo cli-2-1 > ~/.bash_history | clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge--Make-directories-541c.md"
@@ -74,7 +85,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Clearing-text-inputs-ecdf.md"
+   "content-file": ".guides/content/Shortcut--Clearing-single-line-inputs-ecdf.md"
   },
   {
    "id": "9ac16d40-9c13-6038-d300-c478759c6715",
@@ -103,7 +114,18 @@
   {
    "id": "36958af-f622-2701-4c25-e0a1a020cb8c",
    "title": "Challenge: Children files ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: echo cli-2-2 > ~/.bash_history | clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge--Children-files--3695.md"
@@ -151,7 +173,18 @@
   {
    "id": "816d96aa-5ca7-a335-b843-abb01851c80a",
    "title": "Challenge: Removing files",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: echo cli-2-3 > ~/.bash_history | clear",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge--Removing-files-816d.md"

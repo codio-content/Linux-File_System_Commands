@@ -10,7 +10,7 @@ Click on the terminal, make sure you are on the `~/workspace` directory and exec
 touch css/styles.css js/scripts.js assets/icons/icon.png assets/img/logo.png
 ```
 
-Boom! Inspect the correspondent file tree directories to verify the existance of your new empty files.
+Boom! Inspect the corresponding file tree directories to verify the existance of your new empty files.
 
 The new structure should be looking like this:
 

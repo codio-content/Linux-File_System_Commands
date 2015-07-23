@@ -11,15 +11,15 @@ function changedir {
 function runtestfile {
 	# read -r ans
 	case $arg in
-	mkdir-test ) chmod +x "${BASHDIR}/bashtests/${arg}"
-		$arg
-	  ;;
-    touch-test ) chmod +x "${BASHDIR}/bashtests/${arg}"
-		$arg
-	  ;;
-    remove-test ) chmod +x "${BASHDIR}/bashtests/${arg}"
-		$arg
-	  ;;
+	cli-2-1 ) chmod +x "${BASHDIR}/bashtests/${arg}.sh"
+		"${BASHDIR}/bashtests/$arg.sh"
+		;;
+	cli-2-2 ) chmod +x "${BASHDIR}/bashtests/${arg}.sh"
+		"${BASHDIR}/bashtests/$arg.sh"
+		;;
+	cli-2-3 ) chmod +x "${BASHDIR}/bashtests/${arg}.sh"
+		"${BASHDIR}/bashtests/$arg.sh"
+		;;
 	*) echo "The $arg argument can't be recognized. Try again."
 	   ;;
 	esac

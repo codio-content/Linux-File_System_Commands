@@ -1,0 +1,6 @@
+cli-2-1
+clear
+bashtest cli-2-3
+cli-2-1
+cli-2-1
+cli-2-1
