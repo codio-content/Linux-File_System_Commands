@@ -9,7 +9,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: bashtest 2",
      "panel": 0,
      "action": "open"
     }
@@ -17,7 +17,9 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Recap-e64b.md"
+   "content-file": ".guides/content/Recap-e64b.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "132985e1-11f3-4d3f-7002-c21c2ed86637",
@@ -26,7 +28,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/What-we-ll-learn-1329.md"
+   "content-file": ".guides/content/What-we-ll-learn-1329.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "1600b06f-2fbf-ee9c-3c2a-97b1a49b4655",
@@ -34,7 +38,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Project-approach-1600.md"
+   "content-file": ".guides/content/Project-approach-1600.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "8c82b27-9b6a-c69d-7037-7846f0f31b80",
@@ -42,7 +48,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Making-multiple-directories-8c82.md"
+   "content-file": ".guides/content/Making-multiple-directories-8c82.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "37dda718-6bae-6bc-6a68-2a8a2092f670",
@@ -50,7 +58,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Creating-nested-directories-37dd.md"
+   "content-file": ".guides/content/Creating-nested-directories-37dd.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "541c115a-27d0-26-7f48-60fa2a70f6ce",
@@ -69,7 +79,9 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Make-directories-541c.md"
+   "content-file": ".guides/content/Challenge--Make-directories-541c.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "3f12263c-e722-a720-cf56-c8eea34eb6cb",
@@ -77,7 +89,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Creating-multiple-files-3f12.md"
+   "content-file": ".guides/content/Creating-multiple-files-3f12.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "ecdfc47f-69bc-cd7-6b79-47867d25f793",
@@ -85,7 +99,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Clearing-single-line-inputs-ecdf.md"
+   "content-file": ".guides/content/Shortcut--Clearing-single-line-inputs-ecdf.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "9ac16d40-9c13-6038-d300-c478759c6715",
@@ -93,7 +109,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Creating-files-in-children-directories--9ac1.md"
+   "content-file": ".guides/content/Creating-files-in-children-directories--9ac1.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "a6f6343-e6b9-ba63-6803-b69134eb3134",
@@ -101,7 +119,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Listing-from-parent-directories-a6f6.md"
+   "content-file": ".guides/content/Listing-from-parent-directories-a6f6.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "3cb752e2-79d0-4e2d-6d9-5cc05c6297a0",
@@ -109,7 +129,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Clearing-the-terminal-screen-3cb7.md"
+   "content-file": ".guides/content/Shortcut--Clearing-the-terminal-screen-3cb7.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "36958af-f622-2701-4c25-e0a1a020cb8c",
@@ -128,7 +150,9 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Children-files--3695.md"
+   "content-file": ".guides/content/Challenge--Children-files--3695.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "e6342c22-81f1-c7b2-9e3b-564a7b54dd5",
@@ -136,7 +160,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Removing-empty-directories-e634.md"
+   "content-file": ".guides/content/Removing-empty-directories-e634.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "d7894cf7-d76e-ba70-f764-d8423c6b7379",
@@ -144,7 +170,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Removing-files-d789.md"
+   "content-file": ".guides/content/Removing-files-d789.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "e6c0b3f8-640b-303d-83bc-100d97d43982",
@@ -152,7 +180,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Removing-multiple-files-e6c0.md"
+   "content-file": ".guides/content/Removing-multiple-files-e6c0.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "97fad5a5-14b5-9e8d-b448-528e7e9d6c2c",
@@ -160,7 +190,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Removing-non-empty-directories-97fa.md"
+   "content-file": ".guides/content/Removing-non-empty-directories-97fa.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "2b5a3efc-435-5e1a-8c54-5dfb2a755621",
@@ -168,7 +200,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Requesting-removal-confirmation-2b5a.md"
+   "content-file": ".guides/content/Requesting-removal-confirmation-2b5a.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "816d96aa-5ca7-a335-b843-abb01851c80a",
@@ -187,7 +221,9 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Removing-files-816d.md"
+   "content-file": ".guides/content/Challenge--Removing-files-816d.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "charcoal",

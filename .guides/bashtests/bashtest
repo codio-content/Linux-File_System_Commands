@@ -1,33 +1,9 @@
 #!/bin/bash
-#bashtest init
+# chmod files
 
 arg=$1
 
-# Helper funcs
-function changedir {
-	cd "$1"
-}
-
-function runtestfile {
-	# read -r ans
-	case $arg in
-	cli-2-1 ) chmod +x "${BASHDIR}/bashtests/${arg}.sh"
-		"${BASHDIR}/bashtests/$arg.sh"
-		;;
-	cli-2-2 ) chmod +x "${BASHDIR}/bashtests/${arg}.sh"
-		"${BASHDIR}/bashtests/$arg.sh"
-		;;
-	cli-2-3 ) chmod +x "${BASHDIR}/bashtests/${arg}.sh"
-		"${BASHDIR}/bashtests/$arg.sh"
-		;;
-	*) echo "The $arg argument can't be recognized. Try again."
-	   ;;
-	esac
-}
-
-
-if [[ -z "$arg" ]]; then
-	echo "The 'bashtest' command needs an argument in order to be executed.";
-else
-	runtestfile
-fi
+file_count=$(ls /home/codio/workspace/.guides/bashtests/*.sh | wc -l)                                                                      
+for (( i = 1; i <= $file_count; i++ )); do                                                                                                 
+        chmod +x "/home/codio/workspace/.guides/bashtests/cli-$arg-$i.sh"                                                                     
+done
