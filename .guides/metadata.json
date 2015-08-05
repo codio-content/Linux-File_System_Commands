@@ -46,10 +46,11 @@
    "id": "8c82b27-9b6a-c69d-7037-7846f0f31b80",
    "title": "Making multiple directories",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Making-multiple-directories-8c82.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -87,10 +88,11 @@
    "id": "3f12263c-e722-a720-cf56-c8eea34eb6cb",
    "title": "Creating multiple files",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Creating-multiple-files-3f12.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
@@ -158,10 +160,11 @@
    "id": "e6342c22-81f1-c7b2-9e3b-564a7b54dd5",
    "title": "Removing empty directories",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Removing-empty-directories-e634.md",
-   "chapter": false,
+   "chapter": true,
    "reset": []
   },
   {
