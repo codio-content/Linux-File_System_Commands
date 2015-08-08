@@ -1,7 +1,7 @@
 cli-2-1
-echo cli-2-1 > ~/.bash_history | clear
 cli-2-1
-bash /home/codio/workspace/.guides/bashtests/cli-2-1.sh
 cli-2-1
-mkdir test-website test-website/css test-website/img test-website/js
+mkdir css
+rmdir css
+mkdir -p test-website/css
 cli-2-1

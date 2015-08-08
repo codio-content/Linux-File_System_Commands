@@ -78,6 +78,7 @@ function expect_directories
 			echo -e "[Correct] Task $COUNT. ${found_arg}"
 		else
 			echo -e "[Missing] Task $COUNT. Expected: ${found_arg}"
+            return 1
 		fi
 	done
 	test_command

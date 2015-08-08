@@ -1,14 +1,1 @@
 cli-2-2
-echo cli-2-2 > ~/.bash_history | clear
-cli-2-2
-touch test-website/index.html
-cli-2-2
-touch  /home/codio/workspace/test-website/css/styles.css
-cli-2-2
-cli-2-2
-touch /home/codio/workspace/test-website/js/scripts.js
-cli-2-2
-ls test-website/css
-cli-2-2
-clear
-cli-2-2
