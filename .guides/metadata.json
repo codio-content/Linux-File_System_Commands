@@ -72,7 +72,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: workspace-reset.sh challenges",
+     "path": "#terminal: echo cli-2-1 > ~/.bash_history | clear",
      "panel": 0,
      "action": "open"
     }

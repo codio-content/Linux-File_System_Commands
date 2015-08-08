@@ -1,7 +1,0 @@
-cli-2-1
-cli-2-1
-cli-2-1
-mkdir css
-rmdir css
-mkdir -p test-website/css
-cli-2-1

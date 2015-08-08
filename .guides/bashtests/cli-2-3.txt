@@ -1,9 +1,0 @@
-cli-2-3
-man rm
-clear
-rm -Rf ~/workspace/test-website/css
-cli-2-3
-cli-2-3
-cli-2-3
-rm -R ~/workspace/test-website/css
-cli-2-3
