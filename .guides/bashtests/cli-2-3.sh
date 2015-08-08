@@ -124,7 +124,8 @@ function test_command {
 				expect_no_directory "/home/codio/workspace/test-website/js" "remove empty ~/workspace/test-website/js directory"
 				;;
 			3 )
-				expect_commands "remove entire ~/workspace/test-website/css directory at once" "rm -r test-website/css" "rm -r test-website/css/" "rm -Rf ~/workspace/test-website/css" "rm -r ~/workspace/test-website/css" "rm -R ~/workspace/test-website/css"
+                expect_no_directory "/home/codio/workspace/test-website/css" "remove entire ~/workspace/test-website/css directory"
+				# expect_commands "remove entire ~/workspace/test-website/css directory at once" "rm -r test-website/css" "rm -r test-website/css/" "rm -Rf ~/workspace/test-website/css" "rm -r ~/workspace/test-website/css" "rm -R ~/workspace/test-website/css"
 				;;
 		esac
 	else 

@@ -1,0 +1,30 @@
+cli-2-3
+man rm
+clear
+rm -Rf ~/workspace/test-website/css
+cli-2-3
+cli-2-3
+cli-2-3
+rm -R ~/workspace/test-website/css
+cli-2-3
+rm -r ~/workspace/test-website/css
+git a
+git c "Sec 18 regexp"
+git push
+clear
+cli-2-3
+cli-2-3
+cli-2-3
+cli-2-3
+cli-2-3
+rm -r test-website/css
+cli-2-3
+cli-2-3
+cli-2-3
+workspace-reset.sh challenges
+cli-2-3
+workspace-reset.sh challenges
+git a
+git c "Reset challenges"
+git push
+cli-2-3
