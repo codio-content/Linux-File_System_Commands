@@ -1,3 +1,8 @@
 cli-2-3
 echo cli-2-3 > ~/.bash_history | clear
 cli-2-3
+rm ~/workspace/test-website/js/scripts.js
+rm -f ~/workspace/test-website/js
+rm -Rf ~/workspace/test-website/js
+rm -Rf ~/workspace/test-website/css 
+cli-2-3

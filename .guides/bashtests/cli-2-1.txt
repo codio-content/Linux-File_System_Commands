@@ -1,3 +1,7 @@
 cli-2-1
-find .guides/bashtests/ -path "*-test" -delete
+echo cli-2-1 > ~/.bash_history | clear
+cli-2-1
+bash /home/codio/workspace/.guides/bashtests/cli-2-1.sh
+cli-2-1
+mkdir test-website test-website/css test-website/img test-website/js
 cli-2-1
