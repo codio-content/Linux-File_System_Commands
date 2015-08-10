@@ -18,6 +18,7 @@ function reset_workspace {
     rm -r "${WORKSPACE}assets"
     rm -r "${WORKSPACE}test-website"
 	rm -r "${WORKSPACE}index.html"
+    > ~/.bash_history
 	echo "Reseting project files and directories"
 	sleep 2
 	init_workspace
