@@ -65,7 +65,7 @@
   },
   {
    "id": "541c115a-27d0-26-7f48-60fa2a70f6ce",
-   "title": "Challenge: Make directories",
+   "title": "Challenge",
    "files": [
     {
      "path": "#tabs",
@@ -80,7 +80,7 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Make-directories-541c.md",
+   "content-file": ".guides/content/Challenge-541c.md",
    "chapter": false,
    "reset": []
   },
@@ -137,7 +137,7 @@
   },
   {
    "id": "36958af-f622-2701-4c25-e0a1a020cb8c",
-   "title": "Challenge: Children files ",
+   "title": "Challenge",
    "files": [
     {
      "path": "#tabs",
@@ -152,7 +152,7 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Children-files--3695.md",
+   "content-file": ".guides/content/Challenge-3695.md",
    "chapter": false,
    "reset": []
   },
@@ -209,7 +209,7 @@
   },
   {
    "id": "816d96aa-5ca7-a335-b843-abb01851c80a",
-   "title": "Challenge: Removing files",
+   "title": "Challenge",
    "files": [
     {
      "path": "#tabs",
@@ -224,7 +224,17 @@
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge--Removing-files-816d.md",
+   "content-file": ".guides/content/Challenge-816d.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "901fa250-c606-e73b-b3d4-7cb5453f1d61",
+   "title": "End of unit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-19-901f.md",
    "chapter": false,
    "reset": []
   }

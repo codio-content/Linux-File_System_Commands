@@ -1,11 +1,8 @@
 cli-2-3
-echo cli-2-3 > ~/.bash_history | clear
-workspace-reset.sh
-workspace-reset.sh workspace
-workspace-reset.sh challenges
+echo cli-2-3 > /home/codio/.bash_history | clear
 cli-2-3
-cli-2-3
-cli-2-3
-cli-2-3
-cli-2-3
+cat /home/codio/.bashrc
+> /home/codio/.bashrc
+vim /home/codio/.bashrc
+clear
 cli-2-3

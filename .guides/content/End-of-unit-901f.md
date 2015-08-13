@@ -1,0 +1,1 @@
+Now that you know how to create files and directories as well as how to remove them, lets move to knowing how to copy, rename and move them from place to place.
