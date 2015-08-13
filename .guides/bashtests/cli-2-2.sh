@@ -22,7 +22,6 @@ function test_command {
 		case $COUNT in
 			1 )
 				expect_files "/home/codio/workspace/test-website/index.html" "/home/codio/workspace/test-website/.website-config" "/home/codio/workspace/test-website/css/styles.css" "/home/codio/workspace/test-website/img/logo.png" "/home/codio/workspace/test-website/js/scripts.js"
-				# expect_files "$BASHDIR/workspace-cli2/test-website/index.html" "$BASHDIR/workspace-cli2/test-website/.website-config" "$BASHDIR/workspace-cli2/test-website/css/styles.css" "$BASHDIR/workspace-cli2/test-website/img/logo.png" "$BASHDIR/workspace-cli2/test-website/js/scripts.js"
 				;;
 			2 )
 				expect_commands "list test-website/css directory from ~/workspace folder" "ls test-website/css" "ls test-website/css/" "ls ~/workspace/test-website/css/" "ls ~/workspace/test-website/css"
@@ -32,8 +31,8 @@ function test_command {
 				;;
 		esac
 	else 
-        return 0
-		reset_history
+echo "Well done!"
+return 0
 	fi
 }
 

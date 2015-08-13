@@ -22,12 +22,11 @@ function test_command {
 		case $COUNT in
 			1 )
 				expect_directories "/home/codio/workspace/test-website/css" "/home/codio/workspace/test-website/js" "/home/codio/workspace/test-website/img"
-				# expect_directory "$BASHDIR/workspace-cli2/test-website/css" "create test-website/css directory on ~/workspace folder"
 				;;
 		esac
 	else 
-        return 0
-		reset_history
+echo "Well done!"
+return 0
 	fi
 }
 
