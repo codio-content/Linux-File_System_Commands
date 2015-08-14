@@ -1,1 +1,1 @@
-This is the end of the _File System Commands_ unit. In the next unit we will learn how to copy, rename and move files and directories. 
+This is the end of the _File System Commands_ unit. In the next unit you will learn how to copy, rename and move files and directories. 
