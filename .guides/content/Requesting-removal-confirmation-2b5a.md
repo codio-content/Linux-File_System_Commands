@@ -1,4 +1,4 @@
-## The `rm` can be as powerful as dangerous
+## The `rm` can be powerful but also very dangerous
 
 Fortunately, the `rm -i` option was designed to prompt the user for confirmation. 
 

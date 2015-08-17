@@ -11,7 +11,7 @@ rmdir assets/webfonts
 |||definition
 ### Command: `rmdir`
 __Description:__
-The `rmdir` utility _removes directories'_ entries specified by each argument. 
+The `rmdir` utility _removes directories_ entries specified by each argument. 
 
 As with the majority of _bash_ commands, `rmdir` arguments are processed in the given order.
 

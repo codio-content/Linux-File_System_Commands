@@ -1,6 +1,6 @@
 ## Single files can be deleted too
 
-We realized that we don't need the _README.md_ file yet, so why having it there?
+We realize that we don’t need the _README.md_ file, so we want to remove it.
 
 Remove a single file from your `~/workspace` directory:
 
