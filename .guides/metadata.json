@@ -9,7 +9,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: bashtest 2",
+     "path": "#terminal: bashtest 2 | clear",
      "panel": 0,
      "action": "open"
     }
@@ -97,11 +97,11 @@
   },
   {
    "id": "ecdfc47f-69bc-cd7-6b79-47867d25f793",
-   "title": "Shortcut: Clearing single line inputs",
+   "title": "Shortcut",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Clearing-single-line-inputs-ecdf.md",
+   "content-file": ".guides/content/Shortcut--Clearing-single-line-input-ecdf.md",
    "chapter": false,
    "reset": []
   },
@@ -127,11 +127,11 @@
   },
   {
    "id": "3cb752e2-79d0-4e2d-6d9-5cc05c6297a0",
-   "title": "Shortcut: Clearing the terminal screen",
+   "title": "Shortcut",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Clearing-the-terminal-screen-3cb7.md",
+   "content-file": ".guides/content/Shortcut-3cb7.md",
    "chapter": false,
    "reset": []
   },
@@ -234,7 +234,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/End-of-unit-901f.md",
+   "content-file": ".guides/content/That-s-all-folks-901f.md",
    "chapter": false,
    "reset": []
   }

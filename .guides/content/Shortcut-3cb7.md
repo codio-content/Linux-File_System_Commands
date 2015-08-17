@@ -17,7 +17,9 @@ In fact, there is a more practical alternative.
 
 On your keyboard, type the following keys combination:
 
-![shortcut-ctl-l](.guides/img/shortcut-ctrl-l.png)
+```
+ctrl + l
+```
 
 ![shortcut-ctl-l](.guides/img/shortcut-ctrl-l.gif)
 

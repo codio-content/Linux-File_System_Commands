@@ -13,7 +13,7 @@ rmdir assets/webfonts
 __Description:__
 The `rmdir` utility _removes directories'_ entries specified by each argument. 
 
-As the majority of _bash_ commands, `rmdir` arguments are processed in the given order.
+As with the majority of _bash_ commands, `rmdir` arguments are processed in the given order.
 
 __NOTE__: The `rmdir` works only for __empty directories__.
 |||
