@@ -1,3 +1,7 @@
 cli-2-2
-echo cli-2-2 > /home/codio/.bash_history | clear
+touch test-website/index.html test-website/.website-config test-website/css/styles.css test-website/img/logo.png test-website/js/scripts.js
+cli-2-2
+ls test-website/css
+cli-2-2
+clear
 cli-2-2

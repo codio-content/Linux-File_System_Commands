@@ -16,7 +16,7 @@ ls -l assets/icons/
 ls -al js/
 ```
 
-Lets review the terminal outputs respectively:
+Let's review the terminal outputs respectively:
 
 __Simple list output of the *assets/* directory with no options__
 

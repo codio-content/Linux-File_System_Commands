@@ -1,8 +1,19 @@
 cli-2-3
 echo cli-2-3 > /home/codio/.bash_history | clear
-cli-2-3
-cat /home/codio/.bashrc
-> /home/codio/.bashrc
-vim /home/codio/.bashrc
+bashtest 2 | clear
+mkdir test-website test-website/css test-website/img test-website/js
+cli-2-1
+cli-2-2
+touch test-website/index.html test-website/.website-config test-website/css/styles.css test-website/img/logo.png test-website/js/scripts.js
+cli-2-2
+ls test-website/css
+cli-2-2
 clear
+cli-2-2
+cli-2-3
+rm test-website/js/scripts.js
+cli-2-3
+rmdir test-website/js
+cli-2-3
+rm -r test-website/css
 cli-2-3

@@ -72,7 +72,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: echo cli-2-1 > ~/.bash_history | clear",
+     "path": "#terminal: ",
      "panel": 0,
      "action": "open"
     }
@@ -101,7 +101,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shortcut--Clearing-single-line-input-ecdf.md",
+   "content-file": ".guides/content/Shortcut-ecdf.md",
    "chapter": false,
    "reset": []
   },
@@ -144,7 +144,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: echo cli-2-2 > ~/.bash_history | clear",
+     "path": "#terminal: ",
      "panel": 0,
      "action": "open"
     }
@@ -216,7 +216,7 @@
      "action": "close"
     },
     {
-     "path": "#terminal: echo cli-2-3 > ~/.bash_history | clear",
+     "path": "#terminal: ",
      "panel": 0,
      "action": "open"
     }

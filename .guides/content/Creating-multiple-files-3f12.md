@@ -2,7 +2,7 @@
 
 Similar to the `mkdir` command, the `touch` command accepts any number of arguments referring to the file name to be created. 
 
-Lets add 4 empty files to our web project directory simultaneously.
+Let's add 4 empty files to our web project directory simultaneously.
 
 Make sure you are on the _workspace_ directory and execute the following: 
 
