@@ -1,0 +1,50 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1204929762",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "/home/codio/workspace/.guides/bashtests/cli-2-2.sh",
+   "instructions": "Let's test your file creation skills.\n\nMake sure you are on the ~/workspace directory and:\n\n1. Create the following files. Try creating them directly from the `~/workspace` directory, all at once:\n\n    ```\n    test-website/index.html \n    test-website/.website-config\n    test-website/css/styles.css\n    test-website/img/logo.png\n    test-website/js/scripts.js\n    ```\n\n2. From your `~/workspace` directory, list the `test-website/css` directory content including hidden files\n3. Clear the terminal screen\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "name": "Children files "
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-162877149",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "/home/codio/workspace/.guides/bashtests/cli-2-1.sh",
+   "instructions": "Let's test you directory creation skills. \n\nMake sure you are on the `~/workspace` directory and:\n\n1. Create a directory called `test-website` with the `css/ img/ js/` directories inside it. Try doing it all at once.\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "name": "Make directories"
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3034210673",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "points": 1,
+   "command": "/home/codio/workspace/.guides/bashtests/cli-2-3.sh",
+   "instructions": "Let's test your file and directory removal skills:\n\n1. Remove the `test-website/js/scripts.js` file\n1. Remove the empty `test-website/js` directory\n1. Remove the entire `test-website/css` directory and its content\n\nTo become more productive, try doing it directly from your `~/workspace` directory\n\n---\nOnce you have completed these tasks press the _Check It_ button to have your solution assessed.",
+   "name": "Removing files"
+  }
+ }
+]

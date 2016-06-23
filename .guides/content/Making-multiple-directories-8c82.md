@@ -10,7 +10,7 @@ Verify you are currently on the workspace directory with the `pwd` command and e
 mkdir css js
 ```
 
-Confirm the existance of the 2 directories by comparing the `ls` output with the file tree:
+Confirm the existence of the 2 directories by comparing the `ls` output with the file tree:
 
 ```
 codio ~/workspace $ mkdir css js
