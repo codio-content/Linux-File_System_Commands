@@ -46,7 +46,7 @@ function expect_directory
 {
 	if [[ -d "$1" ]]; then
 		test_command
-	else 
+	else
 		tell_error "$2" $COUNT
 	fi
 }
@@ -143,7 +143,7 @@ function expect_permissions
 	fi
 }
 
-function tell_error 
+function tell_error
 {
 	echo -e "[Error  ] Task $2. Expected: ${1}. Try again."
 	return 1
