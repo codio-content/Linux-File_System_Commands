@@ -1,1 +1,0 @@
-This is the end of the _Command Line Interface_ unit. In the next unit we will deepen our file system commands knowledge by creating multiple files and directories from a parent directory. 
