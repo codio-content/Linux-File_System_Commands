@@ -1,0 +1,125 @@
+{
+ "name": "Linux-File_System_Commands",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "e64b9824-76d3-ea85-43d6-ea79e8a7e243",
+   "pageId": "e64b9824-76d3-ea85-43d6-ea79e8a7e243",
+   "type": "page"
+  },
+  {
+   "title": "What we'll learn",
+   "id": "132985e1-11f3-4d3f-7002-c21c2ed86637",
+   "pageId": "132985e1-11f3-4d3f-7002-c21c2ed86637",
+   "type": "page"
+  },
+  {
+   "title": "Project approach",
+   "id": "1600b06f-2fbf-ee9c-3c2a-97b1a49b4655",
+   "pageId": "1600b06f-2fbf-ee9c-3c2a-97b1a49b4655",
+   "type": "page"
+  },
+  {
+   "title": "Making multiple directories",
+   "id": "8c82b27-9b6a-c69d-7037-7846f0f31b80",
+   "pageId": "8c82b27-9b6a-c69d-7037-7846f0f31b80",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Creating nested directories",
+     "id": "37dda718-6bae-6bc-6a68-2a8a2092f670",
+     "pageId": "37dda718-6bae-6bc-6a68-2a8a2092f670",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "541c115a-27d0-26-7f48-60fa2a70f6ce",
+     "pageId": "541c115a-27d0-26-7f48-60fa2a70f6ce",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Creating multiple files",
+   "id": "3f12263c-e722-a720-cf56-c8eea34eb6cb",
+   "pageId": "3f12263c-e722-a720-cf56-c8eea34eb6cb",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Shortcut",
+     "id": "ecdfc47f-69bc-cd7-6b79-47867d25f793",
+     "pageId": "ecdfc47f-69bc-cd7-6b79-47867d25f793",
+     "type": "page"
+    },
+    {
+     "title": "Creating files in children directories ",
+     "id": "9ac16d40-9c13-6038-d300-c478759c6715",
+     "pageId": "9ac16d40-9c13-6038-d300-c478759c6715",
+     "type": "page"
+    },
+    {
+     "title": "Listing from parent directories",
+     "id": "a6f6343-e6b9-ba63-6803-b69134eb3134",
+     "pageId": "a6f6343-e6b9-ba63-6803-b69134eb3134",
+     "type": "page"
+    },
+    {
+     "title": "Shortcut",
+     "id": "3cb752e2-79d0-4e2d-6d9-5cc05c6297a0",
+     "pageId": "3cb752e2-79d0-4e2d-6d9-5cc05c6297a0",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "36958af-f622-2701-4c25-e0a1a020cb8c",
+     "pageId": "36958af-f622-2701-4c25-e0a1a020cb8c",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Removing empty directories",
+   "id": "e6342c22-81f1-c7b2-9e3b-564a7b54dd5",
+   "pageId": "e6342c22-81f1-c7b2-9e3b-564a7b54dd5",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Removing files",
+     "id": "d7894cf7-d76e-ba70-f764-d8423c6b7379",
+     "pageId": "d7894cf7-d76e-ba70-f764-d8423c6b7379",
+     "type": "page"
+    },
+    {
+     "title": "Removing multiple files",
+     "id": "e6c0b3f8-640b-303d-83bc-100d97d43982",
+     "pageId": "e6c0b3f8-640b-303d-83bc-100d97d43982",
+     "type": "page"
+    },
+    {
+     "title": "Removing non-empty directories",
+     "id": "97fad5a5-14b5-9e8d-b448-528e7e9d6c2c",
+     "pageId": "97fad5a5-14b5-9e8d-b448-528e7e9d6c2c",
+     "type": "page"
+    },
+    {
+     "title": "Requesting removal confirmation",
+     "id": "2b5a3efc-435-5e1a-8c54-5dfb2a755621",
+     "pageId": "2b5a3efc-435-5e1a-8c54-5dfb2a755621",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "816d96aa-5ca7-a335-b843-abb01851c80a",
+     "pageId": "816d96aa-5ca7-a335-b843-abb01851c80a",
+     "type": "page"
+    },
+    {
+     "title": "That's all folks",
+     "id": "901fa250-c606-e73b-b3d4-7cb5453f1d61",
+     "pageId": "901fa250-c606-e73b-b3d4-7cb5453f1d61",
+     "type": "page"
+    }
+   ]
+  }
+ ]
+}
